@@ -38,7 +38,9 @@ To run VenueFinder locally, follow these steps:
 
 ## Deployed Project
 
-The project is deployed on Vercel and can be accessed [here](https://venuefinder-mu.vercel.app/) and [here](https://venuefinder-siddhanta-choudhurys-projects.vercel.app/). 
+The project is deployed on Vercel and can be accessed
+[1.](https://venuefinder-mu.vercel.app/)
+[2.](https://venuefinder-siddhanta-choudhurys-projects.vercel.app/)
 
 ## Author
 
